@@ -3544,3 +3544,16 @@ iframe {
 }
 
 /*# sourceMappingURL=main.min.css.map */
+.left-menu__menu-list .menu-item.icon_for_child i {
+  
+    display: inline-block;
+    padding: 16px;
+}
+.left-menu__menu-list .menu-item.icon_for_child i:hover {
+    font-size: 22px;
+    
+    -webkit-transition: 0.2s all;
+    -o-transition: 0.2s all;
+    transition: 0.2s all;
+}
+
